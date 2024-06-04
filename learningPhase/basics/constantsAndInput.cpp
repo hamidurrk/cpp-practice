@@ -47,9 +47,9 @@ int stringInput() {
 }
 
 int main() {
-    // forceCalculator();
-    // cinTester();
-    // calculator();
+    forceCalculator();
+    cinTester();
+    calculator();
     stringInput();
     return 0;
 }
